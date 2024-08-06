@@ -1,0 +1,10 @@
+name: StackedSpawners
+version: '1.0.0'
+main: sk.addon.spawner.Spawner
+api-version: '1.21'
+authors: [ skAddon ]
+description: Stack spawners inside of eachother
+commands:
+  spawner:
+    description: Command to reload the spawner configuration.
+    usage: /spawner reload
